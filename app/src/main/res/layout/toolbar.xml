@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:titleTextColor="#fff"
+    android:background="@color/colorPrimary"
+    app:titleTextColor="#fff"
+    android:elevation="0dp"
+    android:theme="@style/Base.ThemeOverlay.AppCompat.Light"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
